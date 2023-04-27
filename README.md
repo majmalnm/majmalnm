@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hi there, I'm Ajmal
 
-<!--
-**majmalnm/majmalnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 About Me
 
-Here are some ideas to get you started:
+I'm a passionate and dedicated developer with experience in both Flutter and DevOps, constantly exploring the world of technology and seeking ways to create innovative and efficient solutions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Continuously learning and growing in the fields of **Flutter, DevOps, and Cloud technologies**
+- 💡 Always exploring new ideas and concepts
+
+### 🚀 DevOps Engineering
+- Proficient in CI/CD pipelines (Jenkins, GitLab, GitHub Actions)
+- Experience with containerization (Docker) and orchestration (Kubernetes)
+- Familiar with cloud platforms (AWS, Azure, GCP)
+- Skilled in Infrastructure as Code (IaC) using tools like Terraform and Ansible
